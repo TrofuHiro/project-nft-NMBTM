@@ -1,5 +1,4 @@
 # vue-project-nft-NMBTM
-# ข้อมูลยังอยู่โหลดเล่นได้ครับ
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
